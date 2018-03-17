@@ -1,8 +1,7 @@
 # OctahedronClusterGenerator
-This script connects shortest pathes on 3 dimensional spaceframe network. Each edge on the network registers the friquency of passed connections which can be traslated to any design operations such as amount of bundles or thickness of edge etc.
+This script generates clusters of truncated octahedron based on proximity control.
 
-Image credit: Team-SpaceStream of Barteltt. BPro. AD. RC6. 
-              Taught by Daniel Widrig. Stefan Bassing. Soomeen Hahm
+Image credit: GeumChon Folly Bench design by SoomeenHahm Design Ltd. 
               
-![alt text](http://soomeenhahm.com/wp-content/uploads/2017/11/2017.11_Folly_02.jpg)
+![alt text](https://github.com/soomeenhahm/OctahedronClusterGenerator/blob/master/data/OctaGrow.PNG)
 ![alt text](http://soomeenhahm.com/wp-content/uploads/2017/11/2017.11_Folly_02.jpg)
